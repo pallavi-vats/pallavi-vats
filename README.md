@@ -1,6 +1,6 @@
 ## Hello 👋 I'm Pallavi Kumari
 
-I am a fullstack developer from India 🇮🇳 I am working as an Intern at ____ ( ____ )
+I am a fullstack developer from India 🇮🇳 I am working as an Intern at SARASUK TECH PVT LTD ( https://sarasuk.com )
 
 ### Currently I am working with ...
 <a href="" target="_blank" title="Flask" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="Flask" width="30" height="30"/></a>&nbsp;&nbsp;
