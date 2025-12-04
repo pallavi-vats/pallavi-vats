@@ -7,7 +7,8 @@
 ---
 
 # 👩‍💻 About Me
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300"/>
+
 
 
 
