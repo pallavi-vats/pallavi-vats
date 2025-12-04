@@ -68,10 +68,6 @@
 📌 Built using **React + Laravel + MySQL**  
 🔗 Repo: *(https://github.com/pallavi-vats/Office_reference)*  
 
-### 🔹 **Hotel Management System**  
-📌 Full-stack system using **React + Laravel + MySQL**  
-🔗 Repo: *(Add your link here)*  
-
 ### 🔹 **Daily Glam – AI Recommendation System**  
 📌 Tech: **React + Python + Django **  
 🔗 Repo: *((https://github.com/pallavi-vats/Daily_glam)*  
