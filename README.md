@@ -7,7 +7,8 @@
 ---
 
 # 👩‍💻 About Me
-<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="260" align="right"/>
+<img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="300"/>
+
 
 - 🌱 I'm a **Full Stack Developer** from India 🇮🇳  
 - 💼 Previously **Full Stack Developer Intern at [Sarasuk Tech Pvt Ltd](https://sarasuk.com)**  
