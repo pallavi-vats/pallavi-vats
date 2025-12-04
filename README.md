@@ -1,7 +1,8 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=20C20E&center=true&vCenter=true&width=850&lines=Hello+👋+I'm+Pallavi+Kumari;Full+Stack+Developer+(Python+Focused);Backend+Developer+%7C+API+Engineer;Passionate+About+Building+Scalable+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=20C20E&center=true&vCenter=true&width=850&lines=Hello+👋+I'm+Pallavi+Kumari;Full+Stack+Developer+(Python+Focused);Backend+Developer+%7C+API+Engineer;Passionate+About+Building+Scalable+Apps" />
 </p>
+
 
 ---
 
