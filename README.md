@@ -72,9 +72,10 @@
 📌 Tech: **React + Python + Django **  
 🔗 Repo: *((https://github.com/pallavi-vats/Daily_glam)*  
 
-### 🔹 **Blood Bank Management System**  
-📌 Tech: **PHP + MySQL + JavaScript**  
-🔗 Repo: *(Add your link here)*  
+### 🔹 **90 Days Coding Challenge**  
+📌 A personal coding challenge focused on improving problem-solving, DSA, and Python/JavaScript coding skills.  
+🔗 **Repo:** https://github.com/pallavi-vats/90_days_coding_challenge
+
 
 ---
 
