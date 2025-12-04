@@ -69,8 +69,8 @@
 🔗 Repo: *(Add your link here)*  
 
 ### 🔹 **Daily Glam – AI Recommendation System**  
-📌 Tech: **React + Python + Django + Machine Learning**  
-🔗 Repo: *(Add your link here)*  
+📌 Tech: **React + Python + Django **  
+🔗 Repo: *((https://github.com/pallavi-vats/Daily_glam)*  
 
 ### 🔹 **Blood Bank Management System**  
 📌 Tech: **PHP + MySQL + JavaScript**  
