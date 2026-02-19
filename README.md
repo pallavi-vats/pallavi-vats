@@ -108,8 +108,11 @@ Distributed systems • Backend scalability • Architecture design • Optimiza
 ---
 
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=pallavi-vats&show_icons=true&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi-vats&layout=compact&hide_border=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pallavi-vats&show_icons=true&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi-vats&layout=compact&hide_border=true&cache_seconds=86400" />
+</p>
 
 ---
 
