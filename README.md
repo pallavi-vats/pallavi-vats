@@ -1,97 +1,118 @@
-# Pallavi Kumari
+<h1 align="center">Pallavi Kumari</h1>
+<h3 align="center">Backend-Focused Full Stack Engineer • API Specialist • Scalable Systems Builder</h3>
 
-Backend-Focused Software Engineer specializing in scalable systems, API architecture, and performance optimization.
-
-Bangalore, India  
-GitHub: https://github.com/pallavi-vats  
-LinkedIn: https://www.linkedin.com/in/pallavi-kumari-a8b678213  
+<p align="center">
+<a href="mailto:pallavikumari2623@gmail.com">Email</a> •
+<a href="https://github.com/pallavi-vats">GitHub</a> •
+<a href="https://www.linkedin.com/in/pallavi-kumari-a8b678213">LinkedIn</a>
+</p>
 
 ---
 
-## Technical Profile
+## About Me
+Backend-focused developer experienced in building scalable applications, production-grade APIs, and modular architectures. Strong foundation in system design, performance optimization, async processing, and database efficiency.
 
-**Languages**
-Python, JavaScript, SQL, PHP
+---
 
-**Backend**
-FastAPI, Django, Flask, Laravel, REST APIs, Authentication, Async Processing
+## Tech Stack
 
-**Frontend**
-React, HTML, CSS
+**Languages**  
+Python • JavaScript • SQL • PHP  
 
-**Databases**
-MySQL, SQLite, Query Optimization, Indexing
+**Backend**  
+FastAPI • Django • Flask • Laravel • REST APIs • JWT Auth • Async Processing  
 
-**Tools**
-Git, Linux, Docker, Redis, Postman, Swagger
+**Frontend**  
+React • HTML • CSS  
+
+**Databases**  
+MySQL • SQLite • Query Optimization • Indexing  
+
+**Tools**  
+Git • Linux • Docker • Redis • Postman • Swagger  
 
 ---
 
 ## Engineering Impact
 
-- Built 20+ production-grade APIs
-- Reduced response time by 35% via query optimization
-- Designed schema supporting 15K+ records efficiently
-- Reduced latency 30% using async architecture
-- Solved 200+ DSA problems across core structures
+| Metric | Achievement |
+|------|-------------|
+APIs Built | 20+ |
+Performance Improvement | 35% |
+Latency Reduction | 30% |
+Records Handled | 15K+ |
+DSA Problems Solved | 200+ |
 
 ---
 
-## Selected Projects
+## Highlight Projects
 
 ### IntelliTrack — AI Study Analytics Platform
-FastAPI + React + MySQL
-
-- Designed modular backend architecture
-- Implemented async request handling
-- Built analytics dashboard system
-- Structured database for scalability
+**Stack:** FastAPI • React • MySQL  
+- Modular backend architecture  
+- Async request handling  
+- Analytics dashboards  
+- Scalable schema design  
 
 ---
 
 ### Ticket Management System
-FastAPI + Redis
+**Stack:** FastAPI • Redis  
+- Workflow-based lifecycle system  
+- Redis caching architecture  
+- REST API backend design  
 
-- Implemented workflow-based ticket lifecycle
-- Integrated Redis caching layer
-- Designed scalable REST API backend
+---
+
+### Office Management System
+**Stack:** Laravel • React • MySQL  
+- Role-based authentication system  
+- Admin dashboard architecture  
+- Modular service structure  
 
 ---
 
 ### Daily Glam — AI Recommendation Engine
-Django + React + OpenCV
-
-- Image-based recommendation logic
-- JWT authentication system
-- Real-time UI responses
+**Stack:** Django • React • OpenCV  
+- Image analysis recommendation engine  
+- JWT authentication  
+- Dynamic real-time UI responses  
 
 ---
 
 ### Trading Bot
-Python + API Integration
+**Stack:** Python • API Integration  
+- Automated order execution  
+- Modular architecture design  
+- Secure configuration management  
 
-- Automated order execution
-- Modular system design
-- Secure environment configuration
+---
+
+## System Design Strengths
+- Scalable backend architecture
+- Database schema design
+- API performance optimization
+- Asynchronous processing systems
+- Modular codebase structuring
 
 ---
 
 ## Computer Science Foundations
-Data Structures • Algorithms • OOP • System Design • Scalability • Performance Optimization
+Data Structures • Algorithms • OOP • System Design • Scalability • Performance Engineering
 
 ---
 
 ## Current Focus
-- Distributed systems design
-- Backend scalability patterns
-- Performance engineering
-- Production architecture
+Distributed systems • Backend scalability • Architecture design • Optimization
 
 ---
 
-## Contact
-Email: pallavikumari2623@gmail.com
+## GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=pallavi-vats&show_icons=true&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi-vats&layout=compact&hide_border=true)
 
 ---
 
-Focused on building scalable backend systems with clean architecture and measurable performance impact.
+<p align="center">
+<b>Engineering scalable backend systems with clean architecture and measurable impact.</b>
+</p>
