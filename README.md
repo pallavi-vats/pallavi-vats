@@ -10,7 +10,7 @@
 ---
 
 ## About Me
-Backend-focused developer experienced in building scalable applications, production-grade APIs, and modular architectures. Strong foundation in system design, performance optimization, async processing, and database efficiency.
+Backend-focused developer experienced in building scalable applications, production APIs, and modular architectures. Strong foundation in system design, performance optimization, async processing, and database efficiency.
 
 ---
 
@@ -20,13 +20,13 @@ Backend-focused developer experienced in building scalable applications, product
 Python • JavaScript • SQL • PHP  
 
 **Backend**  
-FastAPI • Django • Flask • Laravel • REST APIs • JWT Auth • Async Processing  
+FastAPI • Django • Flask • Laravel • REST APIs • JWT • Async  
 
 **Frontend**  
 React • HTML • CSS  
 
-**Databases**  
-MySQL • SQLite • Query Optimization • Indexing  
+**Database**  
+MySQL • SQLite • Indexing • Query Optimization  
 
 **Tools**  
 Git • Linux • Docker • Redis • Postman • Swagger  
@@ -35,87 +35,46 @@ Git • Linux • Docker • Redis • Postman • Swagger
 
 ## Engineering Impact
 
-| Metric | Achievement |
-|------|-------------|
-APIs Built | 20+ |
-Performance Improvement | 35% |
-Latency Reduction | 30% |
-Records Handled | 15K+ |
-DSA Problems Solved | 200+ |
+- Built 20+ APIs  
+- Improved performance up to 35%  
+- Reduced latency 30%  
+- Designed schema supporting 15K+ records  
+- Solved 200+ DSA problems  
 
 ---
 
-## Highlight Projects
+## Featured Projects
 
-### IntelliTrack — AI Study Analytics Platform
-**Stack:** FastAPI • React • MySQL  
-- Modular backend architecture  
-- Async request handling  
-- Analytics dashboards  
-- Scalable schema design  
+**IntelliTrack — AI Study Analytics Platform**  
+FastAPI + React + MySQL  
 
----
+**Ticket Management System**  
+FastAPI + Redis  
 
-### Ticket Management System
-**Stack:** FastAPI • Redis  
-- Workflow-based lifecycle system  
-- Redis caching architecture  
-- REST API backend design  
+**Office Management System**  
+Laravel + React + MySQL  
 
----
+**Daily Glam — AI Recommendation Engine**  
+Django + React + OpenCV  
 
-### Office Management System
-**Stack:** Laravel • React • MySQL  
-- Role-based authentication system  
-- Admin dashboard architecture  
-- Modular service structure  
-
----
-
-### Daily Glam — AI Recommendation Engine
-**Stack:** Django • React • OpenCV  
-- Image analysis recommendation engine  
-- JWT authentication  
-- Dynamic real-time UI responses  
-
----
-
-### Trading Bot
-**Stack:** Python • API Integration  
-- Automated order execution  
-- Modular architecture design  
-- Secure configuration management  
+**Trading Bot**  
+Python + API Integration  
 
 ---
 
 ## System Design Strengths
-- Scalable backend architecture
-- Database schema design
-- API performance optimization
-- Asynchronous processing systems
-- Modular codebase structuring
+Scalable architecture • API performance • Database design • Async processing • Modular structure
 
 ---
 
-## Computer Science Foundations
-Data Structures • Algorithms • OOP • System Design • Scalability • Performance Engineering
+## Foundations
+Data Structures • Algorithms • OOP • System Design • Scalability
 
 ---
 
 ## Current Focus
-Distributed systems • Backend scalability • Architecture design • Optimization
+Distributed systems • Backend scalability • Performance engineering
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pallavi-vats&show_icons=true&hide_border=true&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi-vats&layout=compact&hide_border=true&cache_seconds=86400" />
-</p>
-
----
-
-<p align="center">
-<b>Engineering scalable backend systems with clean architecture and measurable impact.</b>
-</p>
+<p align="center"><b>Engineering scalable systems with clean architecture and measurable impact.</b></p>
